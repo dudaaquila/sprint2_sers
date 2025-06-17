@@ -1,0 +1,22 @@
+Como Configurar o SunGuard
+
+Requisitos
+- Python 3.8+
+- Bibliotecas: `flask matplotlib random`
+
+Passos
+1. Clone o repositório:
+   git clone https://github.com/seuusuario/sunguard.git
+
+2. Instale as dependencias
+  pip install -r requirements.txt
+
+3. Execute
+  python simulador.py
+
+
+Guia do Usuário
+Comandos Disponíveis
+- "Ativar modo solar": Prioriza energia solar
+- "Ver consumo": Retorna dados atualizados
+- "Relatório diário": Gera gráfico de 24h
